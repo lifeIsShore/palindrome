@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Palindrome Definition</title>
 </head>
 <body>
 	<h1>Palindrome Definition</h1>
