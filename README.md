@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
-<head>
-</head>
+
 <body>
 	<h1>Palindrome Definition</h1>
 	<p>A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward. Examples of palindromes include:</p>
